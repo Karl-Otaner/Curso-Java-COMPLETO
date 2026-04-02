@@ -27,15 +27,22 @@ public class EstruturaRepetitivaFor {
         System.out.println(soma);
         sc.close();
 
-        // conntagem
+        // Crescende
         for (int i=0; i<5; i++) {
             System.out.println("Valor de i: " + i);
         }
- */
-        // conntagem
+
+        // decrescente
 
         for (int i=4; i>=0; i--){
             System.out.println("Valor de i: " + i);
+        }
+*/
+        int x = 4;
+        int y = x + 2;
+        for (int i = 0; i<x; i++) {
+            System.out.print(x+" "+y);
+            y = y + i;
         }
     }
 }
