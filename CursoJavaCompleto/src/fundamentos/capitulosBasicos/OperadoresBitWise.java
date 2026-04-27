@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.capitulosBasicos;
 /*
 Operadores bitwise
 Operador Significado
@@ -24,6 +24,8 @@ Demo
 0101 1001       &: 0001 1000    (24)
                 |: 0111 1101    (125)
 0011 1100       ^: 0110 0101    (101)
+
+onde se aplica: microcontrolador, arduino, programação de interface com rede
 
  */
 

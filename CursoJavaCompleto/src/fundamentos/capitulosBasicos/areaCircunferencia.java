@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.capitulosBasicos;
 
 public class areaCircunferencia {
     public static void main(String[] args) {
